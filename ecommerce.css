@@ -178,8 +178,9 @@
     border-radius: 16px;
   }
   .bg-container{
-    background-image: url("https://img.freepik.com/premium-vector/coffee-beans-pattern_56103-207.jpg?w=740");
-    height: 70vh;
+    background-image: url("https://img.freepik.com/free-photo/coffee-beans-with-props-making-coffee_1220-4536.jpg?w=996&t=st=1679373654~exp=1679374254~hmac=f8520d4021bd17efda4c0d12651bbcdbf87f138afd737ba42e0e9f845677cfba");
+    
+    height: 40vh;
     text-align: center;
     padding: 20px;
     margin: 40px;
